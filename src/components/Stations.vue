@@ -1,13 +1,9 @@
 <template>
-  <div class="stations">
-    <section id="stations" role="main" title="Gas Station">
-      <div class="container">
-        <b-col cols="12" lg="9" class="pb-4 pl-0"><h1>cau</h1></b-col>
-        <b-col cols="8" lg="6" class="pb-4 pl-0"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet urna purus. Integer mattis, magna placerat egestas rhoncus, ligula nisl consequat ex.</p></b-col> 
-        <b-button href="about" class="btn btn-lg btn-light cta" role="button">Prijava</b-button> 
-      </div>
-    </section>
+<section id="station-list" class="bg-light">
+  <div class="container">
+    <h1> cau</h1>
   </div>
+</section>
 </template>
 
 <script>
@@ -15,3 +11,10 @@ export default {
   name: "Stations",
 };
 </script>
+
+<style scoped lang="scss">
+
+@import "../assets/styles/_variables.scss";
+@import "../assets/styles/global.scss";
+
+</style>

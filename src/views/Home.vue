@@ -1,7 +1,11 @@
 <template>
   <div class="home">
     <!--<img alt="Vue logo" src="../assets/logo.png" />-->
-    <Hero title="To je tvoja bencinska postaja." />
+    <Hero 
+      title="To je tvoja bencinska postaja."
+      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet urna purus. Integer mattis, magna placerat egestas rhoncus, ligula nisl consequat ex."
+      action="Prijava" 
+    />
     <Stations/>
   </div>
 </template>
