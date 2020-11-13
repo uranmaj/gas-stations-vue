@@ -50,28 +50,4 @@ export default {
   }
 }
 
-.cta-sm {
-  font-size: 16px;
-  font-weight: bold;
-  color: #ffffff;
-}
-
-#station-accordion .card-header:hover {
-  background-color: #f1f1f1;
-}
-.station-list {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-}
-.station-list .cta {
-  background-color: #C4CB4B;
-}
-
-.fa-star {
-  color: #666666;
-}
-.checked {
-  color: #FFCC00;
-}
-
 </style>
