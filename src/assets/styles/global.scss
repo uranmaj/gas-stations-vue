@@ -22,3 +22,19 @@ p {
     color: #222222;
   }
 }
+
+.cta-sm {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  &:hover {
+    color: #222222;
+  }
+}
+
+.fa-star {
+  color: #666666;
+}
+.checked {
+  color: #FFCC00;
+}
