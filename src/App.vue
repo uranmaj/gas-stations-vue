@@ -1,9 +1,10 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <b-navbar id="nav" vertical class="header" fixed="top">
+      <router-link to="/">Domov</router-link>  |
+      <router-link to="/about">O nas</router-link>
+    </b-navbar>
+      
     <router-view />
   </div>
 </template>
@@ -18,7 +19,12 @@
 }
 
 #nav {
-  padding: 30px;
+  padding-left: 40px;
+  padding-top: 30px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 
   a {
     font-weight: bold;

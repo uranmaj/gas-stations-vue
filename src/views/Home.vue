@@ -4,7 +4,7 @@
     <Hero 
       title="To je tvoja bencinska postaja."
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet urna purus. Integer mattis, magna placerat egestas rhoncus, ligula nisl consequat ex."
-      action="Prijava" 
+      action="Izvedi več" 
     />
     <Stations/>
   </div>
