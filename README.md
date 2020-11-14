@@ -1,4 +1,4 @@
-# gas-stations-vue
+![Alt text](/src/assets/images/gas-stations-vue.png?raw=true "Screenshot of index.html")
 
 ## Project setup
 ```
