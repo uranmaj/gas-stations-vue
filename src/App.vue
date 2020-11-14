@@ -19,7 +19,7 @@
 }
 
 #nav {
-  padding-left: 40px;
+  padding-left: 30px;
   padding-top: 30px;
   font-size: 20px;
   display: flex;
